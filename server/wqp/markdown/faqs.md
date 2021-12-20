@@ -8,7 +8,7 @@ The NWIS (USGS) services are refreshed every 24 hours. The WQX (EPA) services ar
 
 ### ***How much data are available?***
 
-As of July 2015, over 265 million results from over 2.2 million monitoring locations are currently accessible through the portal. The portal reports samples and results collected from each location since the beginning of the databases.
+As of December 2021, over 462 million results from over 2.2 million monitoring locations are currently accessible through the portal. The portal reports samples and results collected from each location since the beginning of the databases.
 
 ***Why do I have to add "USGS-" or other organization identifiers in front of my NWIS (USGS) Site ID when searching? Why do I have to add the Organization ID in front of my WQX (EPA) Site ID when searching?***
 
